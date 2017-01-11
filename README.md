@@ -1,2 +1,3 @@
 # For beginners
-This branch is for practising programming skill myself
+I will post some program I create here
+Feel free to give me more idea and resources :)
