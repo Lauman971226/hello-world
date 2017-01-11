@@ -1,2 +1,2 @@
-# hello-world
-Hello am trying to learn GitHub I wanna be scientist + programmer :)
+# For beginners
+This branch is for practising programming skill myself
